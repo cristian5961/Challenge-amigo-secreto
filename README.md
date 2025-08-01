@@ -30,9 +30,13 @@ y la lógica de programación en *JavaScript*.
 
 ## 🎮 Funcionamiento
 - **Agregar Amigos**
-Para agregar los nombres se debe escribir en la caja de texto en blanco y presionar el botón "Añadir". 
+
+### Para agregar los nombres se debe escribir en la caja de texto en blanco y presionar el botón "Añadir". 
+
 ![Agregar nombres](./screenshot/agregar-amigos.PNG)
 
-Después de ingresar todos los nombres se debe presionar en el botón "Sortear amigo" para obtener el nombre del amigo secreto.
 - **Resultado Sorteo**
+
+### Después de ingresar todos los nombres se debe presionar en el botón "Sortear amigo" para obtener el nombre del amigo secreto.
+
 ![Sorteo nombres](./screenshot/sortear-amigo.PNG)
